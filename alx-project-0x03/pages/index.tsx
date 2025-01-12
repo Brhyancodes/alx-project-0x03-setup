@@ -38,6 +38,10 @@ export default function Home() {
           buttonBackgroundColor="orange"
         />
       </div>
-    </div>
+      </div>
+      //Commented it out for my code to work,haha!
+    //   <div>
+    //           Today is the last Sunday that Rev. Michael Tsalwa preached in our church.
+    //   </div>
   )
 }
